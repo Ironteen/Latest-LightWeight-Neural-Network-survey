@@ -33,9 +33,9 @@ Due to the needs of the project, I investigated 10 latest lightweight backbone n
 
 ### Prerequisites
 
-- torch
-- torchsummary
-- ptflops
+- torch: refer to https://pytorch.org/
+- torchsummary: pip install torchsummary
+- ptflops: pip install --upgrade git+https://github.com/sovrasov/flops-counter.pytorch.git
 
 ### Function
 
