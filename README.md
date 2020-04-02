@@ -1,7 +1,3 @@
----
-typora-root-url: ./
----
-
 ## Latest Lightweight Neural Network Survey
 
 Due to the needs of the project, I investigated 10 latest lightweight backbone networks,  the parameter amount is about 5M but get nice accuracy on ImageNet2012 validate dataset. They belong to FBNet,  HardNet, MixNet, MnasNet, ShuffleNet and EfficientNet model series.
